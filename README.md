@@ -11,13 +11,13 @@ I built an interactive dashboard that highlights key business insights and perfo
 
 ![Image](https://github.com/user-attachments/assets/bdc5670e-e20a-4d64-8e9b-737165468520)
 
-#### ✅ Overview
+### ✅ Overview
 
 Product images (from multiple angles), names, and short descriptions are displayed for better understanding.
 
 ![Image](https://github.com/user-attachments/assets/3c3282fa-426e-48bc-ad3b-21a095e398c8)
 
-#### ✅ Sales Performance
+### ✅ Sales Performance
 
 <b>🔹 Total Sales by Region and Sales Method:</b>
 Analyzed sales across regions and three sales channels: online, in-store, and outlet.
@@ -39,7 +39,7 @@ Measured profit per product after operating costs.
 
 ![Image](https://github.com/user-attachments/assets/ab122fb4-10e7-4007-865d-858c747f545c)
 
-#### ✅ Profitability
+### ✅ Profitability
 
 <b>🔹 Operational Profit by Region:</b>
 Compared profitability across different regions.
@@ -49,7 +49,7 @@ Evaluated product-level profit margins to identify high-margin items.
 
 ![Image](https://github.com/user-attachments/assets/185025ff-bc87-41b3-8ee4-4cb563f50d3a)
 
-#### ✅ Customer Engagement
+### ✅ Customer Engagement
 
 <b>🔹 Customer Satisfaction:</b>
 The average customer rating is 4.6 stars, reflecting strong overall satisfaction.
@@ -72,9 +72,9 @@ DAX is utilized for creating custom calculations and measures within the dashboa
 #### Data Modeling
 The relationships between different data tables are established to create a comprehensive data model. This ensures accurate insights and visualizations throughout the dashboard.
 
+![Image](https://github.com/user-attachments/assets/1ea2301e-d6e0-43d1-b892-0e58a08271a0)
 
-
-
+These tools collectively enhance the analytical capabilities of the dashboard, providing valuable insights and performance metrics into Nike Customer Satisfaction analysis.
 
 #### 📌 Final Takeaway
 
