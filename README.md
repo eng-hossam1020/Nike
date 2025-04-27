@@ -15,38 +15,48 @@ I built an interactive dashboard that highlights key business insights and perfo
 
 Product images (from multiple angles), names, and short descriptions are displayed for better understanding.
 
+![Image](https://github.com/user-attachments/assets/3c3282fa-426e-48bc-ad3b-21a095e398c8)
 
+#### ✅ Sales Performance
 
-✅ Sales Performance
-
-🔹 Total Sales by Region and Sales Method
+<b>🔹 Total Sales by Region and Sales Method</b>
 Analyzed sales across regions and three sales channels: online, in-store, and outlet.
-🔹 Units Sold by Sales Method
+
+<b>🔹 Units Sold by Sales Method</b>
 Tracked units sold across different sales channels to measure channel performance.
-🔹 Units Sold by Year and Month
+
+<b>🔹 Units Sold by Year and Month</b>
 Displayed monthly and yearly sales trends to highlight seasonality.
-🔹 Total Sales by Product
+
+<b>🔹 Total Sales by Product</b>
 Identified top-performing products by total revenue.
-🔹 Total Units Sold by Product
+
+<b>🔹 Total Units Sold by Product</b>
 Highlighted products with the highest sales volume.
-🔹 Operational Profit by Product
+
+<b>🔹 Operational Profit by Product</b>
 Measured profit per product after operating costs.
-✅ Profitability
 
-🔹 Operational Profit by Region
+#### ✅ Profitability
+
+<b>🔹 Operational Profit by Region</b>
 Compared profitability across different regions.
-🔹 Operational Margin by Product
-Evaluated product-level profit margins to identify high-margin items.
-✅ Customer Engagement
 
-🔹 Customer Satisfaction
+<b>🔹 Operational Margin by Product</b>
+Evaluated product-level profit margins to identify high-margin items.
+
+#### ✅ Customer Engagement
+
+<b>🔹 Customer Satisfaction</b>
 The average customer rating is 4.6 stars, reflecting strong overall satisfaction.
-🔹 Total Sales by Region
+
+<b>🔹 Total Sales by Region</b>
 Reviewed sales totals by region to assess the impact of customer engagement.
-🔹 Operational Profit by Year and Month
+
+<b>🔹 Operational Profit by Year and Month</b>
 Tracked profit over time to monitor financial growth trends.
 
-📌 Final Takeaway
+#### 📌 Final Takeaway
 
 Nike demonstrates strong customer satisfaction and consistent sales performance.
 Focusing on product quality, regional engagement, and channel-specific strategies could drive even greater results.
