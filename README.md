@@ -6,11 +6,17 @@
 A Power BI dashboard delivering insights using a dataset covering Nike’s sales, profitability, and customer engagement for the years 2020 and 2021.
 I built an interactive dashboard that highlights key business insights and performance metrics, based on product, sales, and customer review data.
 
-🔍 Key Insights
-✅ Overview
+## 🔍 Key Insights
 
 
-• Product images (from multiple angles), names, and short descriptions are displayed for better understanding.
+![Image](https://github.com/user-attachments/assets/bdc5670e-e20a-4d64-8e9b-737165468520)
+
+#### ✅ Overview
+
+Product images (from multiple angles), names, and short descriptions are displayed for better understanding.
+
+
+
 ✅ Sales Performance
 
 🔹 Total Sales by Region and Sales Method
