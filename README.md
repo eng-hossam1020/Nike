@@ -19,45 +19,45 @@ Product images (from multiple angles), names, and short descriptions are display
 
 #### ✅ Sales Performance
 
-<b>🔹 Total Sales by Region and Sales Method</b>
+<b>🔹 Total Sales by Region and Sales Method:</b>
 Analyzed sales across regions and three sales channels: online, in-store, and outlet.
 
-<b>🔹 Units Sold by Sales Method</b>
+<b>🔹 Units Sold by Sales Method:</b>
 Tracked units sold across different sales channels to measure channel performance.
 
-<b>🔹 Units Sold by Year and Month</b>
+<b>🔹 Units Sold by Year and Month:</b>
 Displayed monthly and yearly sales trends to highlight seasonality.
 
-<b>🔹 Total Sales by Product</b>
+<b>🔹 Total Sales by Product:</b>
 Identified top-performing products by total revenue.
 
-<b>🔹 Total Units Sold by Product</b>
+<b>🔹 Total Units Sold by Product:</b>
 Highlighted products with the highest sales volume.
 
-<b>🔹 Operational Profit by Product</b>
+<b>🔹 Operational Profit by Product:</b>
 Measured profit per product after operating costs.
 
 ![Image](https://github.com/user-attachments/assets/ab122fb4-10e7-4007-865d-858c747f545c)
 
 #### ✅ Profitability
 
-<b>🔹 Operational Profit by Region</b>
+<b>🔹 Operational Profit by Region:</b>
 Compared profitability across different regions.
 
-<b>🔹 Operational Margin by Product</b>
+<b>🔹 Operational Margin by Product:</b>
 Evaluated product-level profit margins to identify high-margin items.
 
-
+![Image](https://github.com/user-attachments/assets/185025ff-bc87-41b3-8ee4-4cb563f50d3a)
 
 #### ✅ Customer Engagement
 
-<b>🔹 Customer Satisfaction</b>
+<b>🔹 Customer Satisfaction:</b>
 The average customer rating is 4.6 stars, reflecting strong overall satisfaction.
 
-<b>🔹 Total Sales by Region</b>
+<b>🔹 Total Sales by Region:</b>
 Reviewed sales totals by region to assess the impact of customer engagement.
 
-<b>🔹 Operational Profit by Year and Month</b>
+<b>🔹 Operational Profit by Year and Month:</b>
 Tracked profit over time to monitor financial growth trends.
 
 #### 📌 Final Takeaway
