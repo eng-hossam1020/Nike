@@ -37,6 +37,8 @@ Highlighted products with the highest sales volume.
 <b>🔹 Operational Profit by Product</b>
 Measured profit per product after operating costs.
 
+![Image](https://github.com/user-attachments/assets/ab122fb4-10e7-4007-865d-858c747f545c)
+
 #### ✅ Profitability
 
 <b>🔹 Operational Profit by Region</b>
@@ -44,6 +46,8 @@ Compared profitability across different regions.
 
 <b>🔹 Operational Margin by Product</b>
 Evaluated product-level profit margins to identify high-margin items.
+
+
 
 #### ✅ Customer Engagement
 
