@@ -1,4 +1,5 @@
-# Nike Customer Satisfaction Analysis
+
+ # ![image](https://github.com/user-attachments/assets/026120cd-2faf-4e30-aabf-ba4f5023ec91) Nike Customer Satisfaction Analysis
 
 ## Overview
 
